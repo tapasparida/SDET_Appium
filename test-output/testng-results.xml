@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25360" started-at="2020-10-12T16:40:52 IST" finished-at="2020-10-12T16:41:17 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25360" started-at="2020-10-12T16:40:52 IST" finished-at="2020-10-12T16:41:17 IST">
+      <class name="SDET.Maven_appiumProject.ChromeToDoList">
+        <test-method status="PASS" signature="setup()[pri:0, instance:SDET.Maven_appiumProject.ChromeToDoList@6b57696f]" name="setup" is-config="true" duration-ms="18852" started-at="2020-10-12T16:40:52 IST" finished-at="2020-10-12T16:41:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="toDoList()[pri:0, instance:SDET.Maven_appiumProject.ChromeToDoList@6b57696f]" name="toDoList" duration-ms="6442" started-at="2020-10-12T16:41:10 IST" finished-at="2020-10-12T16:41:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toDoList -->
+      </class> <!-- SDET.Maven_appiumProject.ChromeToDoList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
